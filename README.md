@@ -1,4 +1,6 @@
-### Hi there 👋
+### 나는 누구인가요 👋
+
+알파코 부트캠프 수업을 듣고 있는 남진식입니다.
 
 <!--
 **happytree3/happytree3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
